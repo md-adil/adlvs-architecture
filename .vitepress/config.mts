@@ -21,6 +21,7 @@ export default withMermaid(
         { text: '03 — Key Features', link: '/03_key_features' },
         { text: '04 — Developer Reference', link: '/04_developer_reference' },
         { text: '05 — Infrastructure', link: '/05_infrastructure' },
+        { text: '06 — Verification Sources', link: '/06_verification_sources' },
       ],
 
       outline: { level: [2, 3] },
